@@ -11,3 +11,17 @@
   </div>
 </div>
 {% endblock %}
+
+<div class="row row-cols-1 row-cols-md-2 g-4 row-cols-lg-3">
+ {% for doc in blog.blogs %}
+ <div class="col">
+   <div class="card h-100  text-bg-success mb-3">
+     <div class="card-body">
+       <h5 class="card-title">{{ blog.blogs-headline }}</h5>
+        <h6 class="card-captain">{{ blog.date }}</h6>
+       <p class="card-text">{{ blog.slug }}</p>
+     </div>
+   </div>
+ </div>
+   {% endfor %}
+</div>

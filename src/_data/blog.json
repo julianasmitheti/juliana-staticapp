@@ -1,0 +1,64 @@
+{
+  "blogs": [
+    {
+      "slug": "2019-10-18",
+      "headline": "It was a dark and stormy night",
+      "date": "Oct. 18, 2019",
+      "image": "kraken01.jpg",
+      "post": [
+        {
+          "type": "text",
+          "value": "Sea Legs lee grog blossom capstan <a href=\"https://en.wikipedia.org/wiki/Portuguese_man_o%27_war\">Man-of-war</a> mizzenmast reef sails crimp bring a spring upon her cable execution dock. Scuppers chase keel belaying pin rum warp American Main gabion hearties skysail. Cable parley ye sheet Gold Road booty tender Cat o'nine tails scourge of the seven seas pressgang."
+        },
+        {
+          "type": "text",
+          "value": "Ballast parrel chantey walk the plank gabion ho log overhaul Plate Fleet maroon. Lugger deadlights Yellow Jack provost schooner reef knave pressgang bilge capstan. Black jack belaying pin gally trysail take a caulk yawl bowsprit schooner boatswain overhaul."
+        },
+        {
+          "type": "text",
+          "value": "Bounty Blimey rutters mutiny bilge hornswaggle keel matey grapple clap of thunder. Rope's end handsomely lanyard belaying pin no prey, no pay measured fer yer chains tender league man-of-war maroon. Doubloon ho bounty matey maroon strike colors knave coffer no prey, no pay careen."
+        }
+      ]
+    },
+    {
+      "slug": "2019-10-19",
+      "headline": "My white whale",
+      "date": "Oct. 19, 2019",
+      "image": "kraken02.jpg",
+      "post": [
+        {
+          "type": "text",
+          "value": "Hands Sink me fathom barkadeer nipper chase Spanish Main haul wind gangway clipper. Scuppers piracy hang the jib spanker wherry port overhaul bilge interloper lookout. Chantey yo-ho-ho furl gaff smartly come about provost barkadeer grapple landlubber or just lubber."
+        },
+        {
+          "type": "text",
+          "value": "Hail-shot ahoy interloper parley me scallywag jury mast Chain Shot Plate Fleet quarter. Crack Jennys tea cup belay topgallant skysail wherry keelhaul barkadeer gally lugger clipper. Take a caulk wench lad yard nipper warp galleon long clothes Spanish Main broadside."
+        },
+        {
+          "type": "text",
+          "value": "Crow's nest pillage Buccaneer jib yo-ho-ho sutler skysail red ensign ye grog. Case shot lookout wherry bilge rat run a rig dead men tell no tales port lugsail Jack Tar piracy. No prey, no pay heave to come about hempen halter handsomely to go on account brigantine lugger gangway case shot."
+        }
+      ]
+    },
+    {
+      "slug": "2019-10-20",
+      "headline": "It was a dark and stormy night",
+      "date": "Oct. 18, 2019",
+      "image": "kraken01.jpg",
+      "post": [
+        {
+          "type": "text",
+          "value": "Prow Blimey line cutlass galleon deadlights scurvy crimp smartly careen. Grapple lugsail spike hands port bilged on her anchor keel man-of-war clap of thunder dance the hempen jig. Coxswain jack black spot Shiver me timbers boom handsomely ballast crack Jennys tea cup mizzenmast Cat o'nine tails. Nipperkin main sheet mizzenmast gunwalls American Main run a rig spike fluke walk the plank hardtack."
+        },
+        {
+          "type": "text",
+          "value": "Plunder Gold Road spike man-of-war square-rigged rigging scallywag heave down take a caulk scuppers. Red ensign barkadeer mizzen salmagundi broadside me fore execution dock no prey, no pay marooned. Port spanker quarterdeck scourge of the seven seas bring a spring upon her cable booty Admiral of the Black wherry holystone jack. Coffer cutlass American Main crack Jennys tea cup cable list fore spirits clap of thunder man-of-war."
+        },
+        {
+          "type": "text",
+          "value": "Fire ship spirits lugsail topsail gibbet clap of thunder Pirate Round yardarm man-of-war shrouds. Chase Plate Fleet execution dock Shiver me timbers come about galleon hearties jack jury mast Letter of Marque. Gangplank doubloon wench careen Chain Shot sloop brig Jack Tar scuttle cable. Trysail walk the plank lugger warp lugsail Jack Tar lanyard landlubber or just lubber furl Jack Ketch."
+        }
+      ]
+    }
+  ]
+}
